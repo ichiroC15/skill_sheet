@@ -13,7 +13,7 @@ GitHub: @IchiroC15
 主に求人提供元サイトとの連携、他アグリゲーションサイトへの求人情報送信を担当
 
 ## 保有技術
-**Ruby**, PHP, Java, **Ruby on Rails**, Fuel, **CentOS**, **MySQL**, Redis, VirtualBox, Vagrant, Ansible
+**Ruby**, PHP, Java, **Ruby on Rails**, Fuel, HTML, CSS, **CentOS**, **MySQL**, Redis, VirtualBox, Vagrant, Ansible, Solr
 
 ## 得意分野
 外部サービスとのファイル・APIを通じた連携処理の作成
